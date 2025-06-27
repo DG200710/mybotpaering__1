@@ -56,22 +56,22 @@ router.get('/', async (req, res) => {
 
                     let DEXTER_TECH_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃DEXTER-TECH SESSION IS 
+┃DASSA-MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ DEXTER-TECH ⚡𖥘
+❶ || Creator = 𖥘⚡ PROGAMMER DASSA⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || chnel = https://whatsapp.com/channel/0029VbAmVQnHwXbJ2e3ROQ1E
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+❸ || Owner = https://wa.me/+94743277981
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/dextertech/LORD-MD 
+❺ || Business web = https://dassa-profile-web.vercel.app/
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@dextertech2 
+❻ || YouTube = https://youtube.com/@dassatech17?si=HJ4eHBl3S72Qn6BS
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 DEXTER-TECH_`;
+©DASSA MD WHATSAP BOT 💀_`;
                     await Pair_Code_By_DEXTER_TECH.sendMessage(Pair_Code_By_DEXTER_TECH.user.id, { text: DEXTER_TECH_TEXT }, { quoted: session });
 
                     await delay(100);
@@ -90,7 +90,7 @@ router.get('/', async (req, res) => {
             }
         }
     }
-    return await DEXTER_TECH_PAIR_CODE();
+    return await DASSA_MD_PAIR_CODE();
 });
 
 module.exports = router;
