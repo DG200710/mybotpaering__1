@@ -89,8 +89,8 @@ router.get('/', async (req, res) => {
                 await res.send({ code: "Service Unavailable" });
             }
         }
-    }
-    return await DASSA_MD_PAIR_CODE();
+                        }
+    return await DEXTER_TECH_PAIR_CODE();
 });
 
 module.exports = router;
